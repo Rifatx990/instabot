@@ -1,0 +1,6 @@
+instagrapi
+Flask
+requests
+Pillow
+pycryptodomex
+pydantic
